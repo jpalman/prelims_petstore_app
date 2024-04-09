@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="mayaogino_petshop_app"
+        android:label="palman_petshop_app"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity

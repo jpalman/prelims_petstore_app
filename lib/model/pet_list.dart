@@ -12,7 +12,7 @@ final List<Pet> PETS = [
       location: 'USA',
       time: '1hr',
       price: 85.00,
-      imagePath: 'assets/persian.png'),
+      imagePath: 'assets/persian cat.png'),
   Pet(
       id: 1,
       name: 'Sphinx Cat',
@@ -72,5 +72,5 @@ final List<Pet> PETS = [
       location: 'Canada',
       time: '8m',
       price: 60.00,
-      imagePath: 'assets/russianblue.png'),
+      imagePath: 'assets/russian.png'),
 ];

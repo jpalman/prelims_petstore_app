@@ -29,11 +29,11 @@ class Onboarding extends StatelessWidget {
                 child: Column(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
-                    Row(
-                      crossAxisAlignment: CrossAxisAlignment.center,
-                      mainAxisAlignment: MainAxisAlignment.center,
-                      children: [Image.asset('assets/scroll-circles.png')],
-                    ),
+                    // Row(
+                    //   crossAxisAlignment: CrossAxisAlignment.center,
+                    //   mainAxisAlignment: MainAxisAlignment.center,
+                    //   children: [Image.asset('assets/scroll-circles.png')],
+                    // ),
                     Text(
                       'Your One-Stop Pet Shop Experience!',
                       textAlign: TextAlign.center,

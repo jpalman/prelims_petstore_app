@@ -84,7 +84,7 @@ class PetCart extends StatelessWidget {
                             padding: const EdgeInsets.all(5),
                             width: MediaQuery.sizeOf(context).width * .30,
                             decoration: BoxDecoration(
-                                color: const Color.fromARGB(92, 0, 79, 250),
+                                color: Color.fromARGB(255, 255, 170, 0),
                                 borderRadius: BorderRadius.circular(8)),
                             child: Row(
                               mainAxisAlignment: MainAxisAlignment.spaceEvenly,

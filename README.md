@@ -1,4 +1,4 @@
-# mayaogino_petshop_app
+# palman_petshop_app
 
 A new Flutter project.
 
